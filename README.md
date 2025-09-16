@@ -1,14 +1,14 @@
-# Амир Тлинов — iMAGRAY
+# Amir Tlinov — iMAGRAY
 
 <div align="center">
 
-<!-- Simple Text Header -->
+<!-- Animated Text Header -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Амир+Тлинов;Software+Architect;AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Amir+Tlinov;Software+Architect;AI+Developer" alt="Typing SVG" />
 </h1>
 
 [![Website](https://img.shields.io/badge/Website-imagray.dev-667eea?style=for-the-badge&logo=safari&logoColor=white)](https://imagray.dev)
-[![Location](https://img.shields.io/badge/Москва%2C%20Россия-764ba2?style=for-the-badge&logo=map-pin&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Moscow%2C%20Russia-764ba2?style=for-the-badge&logo=map-pin&logoColor=white)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=iMAGRAY&style=for-the-badge&color=f093fb&label=Profile+Views)](https://github.com/iMAGRAY)
 
 </div>
@@ -21,29 +21,29 @@
 
 ```rust
 struct Developer {
-    name: "Амир Тлинов",
+    name: "Amir Tlinov",
     username: "iMAGRAY",  
     role: "Software Architect & AI Developer",
-    location: "Москва, Россия",
+    location: "Moscow, Russia",
     
     focus: vec![
-        "AI-инструменты глубокого профиля",
-        "Системная архитектура", 
-        "Production-ready решения"
+        "Deep-profile AI tools",
+        "System architecture", 
+        "Production-ready solutions"
     ],
     
     philosophy: "Design docs first, API-first",
-    demo_policy: "Только production-ready"
+    demo_policy: "Production-ready only"
 }
 ```
 
-### 🎯 Принципы работы
+### 🎯 Work Principles
 
-- **🏗️ Архитектура**: Design docs first, API-first подход
-- **⚡ Автоматизация**: Сквозная автоматизация всех процессов  
-- **📊 Прозрачность**: Метрики, трейсинг, p95/p99 под контролем
-- **🔒 Безопасность**: Security by default, минимальные привилегии
-- **🎯 Качество**: Zero-downtime deploy, feature flags, performance gates
+- **🏗️ Architecture**: Design docs first, API-first approach
+- **⚡ Automation**: End-to-end process automation  
+- **📊 Transparency**: Metrics, tracing, p95/p99 under control
+- **🔒 Security**: Security by default, minimal privileges
+- **🎯 Quality**: Zero-downtime deploy, feature flags, performance gates
 
 ---
 
@@ -81,7 +81,7 @@ struct Developer {
 
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iMAGRAY&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/iMAGRAY)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iMAGRAY&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/iMAGRAY)
 
 <br>
 
@@ -113,28 +113,28 @@ struct Developer {
 <details>
 <summary><b>🤖 AI & Machine Learning</b></summary>
 
-- **Embedding и семантический поиск** в промышленных масштабах
-- **LLM интеграция** и оптимизация производительности  
-- **AI-инструменты** для анализа кода и архитектуры
-- **Prompt engineering** и fine-tuning моделей
+- **Embedding and semantic search** at industrial scale
+- **LLM integration** and performance optimization  
+- **AI tools** for code and architecture analysis
+- **Prompt engineering** and model fine-tuning
 
 </details>
 
 <details>
 <summary><b>🏗️ Software Architecture</b></summary>
 
-- **Microservices** и distributed systems
-- **Event-driven architecture** и CQRS patterns
-- **API design** и versioning стратегии
-- **Domain-driven design** и clean architecture
+- **Microservices** and distributed systems
+- **Event-driven architecture** and CQRS patterns
+- **API design** and versioning strategies
+- **Domain-driven design** and clean architecture
 
 </details>
 
 <details>
 <summary><b>🚀 DevOps & Cloud</b></summary>
 
-- **Cloud-native** приложения (AWS, GCP, Azure)
-- **CI/CD pipelines** с автоматизированным QA
+- **Cloud-native** applications (AWS, GCP, Azure)
+- **CI/CD pipelines** with automated QA
 - **Infrastructure as Code** (Terraform, Ansible)
 - **Container orchestration** (Docker, Kubernetes)
 
@@ -143,10 +143,10 @@ struct Developer {
 <details>
 <summary><b>📈 Business & Product</b></summary>
 
-- **Коммерциализация open-source** проектов
-- **Technical due diligence** для инвестиций
-- **Scaling engineering teams** и процессов
-- **Product strategy** и technical roadmaps
+- **Open-source commercialization** projects
+- **Technical due diligence** for investments
+- **Engineering team scaling** and processes
+- **Product strategy** and technical roadmaps
 
 </details>
 
@@ -208,8 +208,8 @@ struct Developer {
 
 ### 💭 Professional Philosophy
 
-> *"Лучший код — тот, который не нужно писать.  
-> Лучшая архитектура — та, которая эволюционирует."*
+> *"The best code is the code you don't have to write.  
+> The best architecture is the one that evolves."*
 
 **🏢 Corporate Projects**: AI audit & consulting on demand  
 **🔓 Open Source**: MIT/Apache licenses for public projects
