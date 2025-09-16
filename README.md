@@ -27,6 +27,9 @@
   <a href="https://dev.to/iMAGRAY">
     <img src="https://img.shields.io/badge/dev.to-1f2937?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
+  <a href="mailto:amir@imagray.dev?subject=Strategy%20Briefing%20Request">
+    <img src="https://img.shields.io/badge/Request%20a%20Briefing-1e3a8a?style=for-the-badge&logo=target&logoColor=white" alt="Request a briefing" />
+  </a>
 </div>
 
 <p align="center">
@@ -37,13 +40,17 @@
 
 ## Table of Contents
 - [Executive Overview](#executive-overview)
+- [Executive Dashboard](#executive-dashboard)
 - [Strategic Focus](#strategic-focus)
+- [Program Navigator](#program-navigator)
 - [Service Portfolio](#service-portfolio)
 - [Capability Matrix](#capability-matrix)
 - [Operating Principles](#operating-principles)
-- [Engagement Framework](#engagement-framework)
+- [Delivery Playbooks](#delivery-playbooks)
+- [Assurance Stack](#assurance-stack)
 - [Technology Stack](#technology-stack)
-- [Architecture Snapshot](#architecture-snapshot)
+- [Architecture Suite](#architecture-suite)
+- [Case Files](#case-files)
 - [Thought Leadership](#thought-leadership)
 - [Contact](#contact)
 
@@ -55,8 +62,33 @@ Amir Tlinov builds and scales deep-profile AI platforms that combine rigorous go
 - Strong bias toward metrics, observability and continuous verification across the software lifecycle
 - Portfolio anchored in production AI, including retrieval-augmented generation, vector search optimisation and intelligent observability
 
-## Strategic Focus
+## Executive Dashboard
+<details open>
+  <summary>Quarterly Operating Snapshot</summary>
+
+  | Metric | FY24 Q4 Actual | FY25 Q1 Target | Coverage |
+  | --- | --- | --- | --- |
+  | AI platform launches in production | 4 | 5 | Financial services, healthcare, SaaS |
+  | Mean time to remediate safety issues | 18 hours | 12 hours | Integrated with policy automation |
+  | Evaluation suites shipped per program | 3.2 | 4 | Offline, canary, real-time |
+  | Compliance checkpoints automated | 92% | 96% | SOC 2, ISO 27001, regional AI directives |
+
+  <p align="left"><sub>Metrics updated September 16, 2025; sourced from internal telemetry board.</sub></p>
+</details>
+
 <details>
+  <summary>Interactive KPI Explorer</summary>
+
+  | KPI Pillar | Definition | Observability Hook |
+  | --- | --- | --- |
+  | Adoption Readiness | Launch readiness scoring across legal, risk and operations | GitHub Actions → Datadog dashboards |
+  | Safety Integrity | Real-time guardrail coverage across inference surfaces | Open Policy Agent + custom safety runners |
+  | Operational Efficiency | Deployment lead time and rollback rehearsal cadence | Argo Workflows + Service Catalog |
+  | Knowledge Uplift | Feedback loops from discovery to backlog refinement | Notion → Linear bi-directional sync |
+</details>
+
+## Strategic Focus
+<details open>
   <summary>2025 Priorities</summary>
 
   - Delivering scalable AI infrastructure with deterministic deployment pipelines and SBOM-backed supply chain controls
@@ -70,6 +102,34 @@ Amir Tlinov builds and scales deep-profile AI platforms that combine rigorous go
   - Establish design-first execution where architecture artifacts lead implementation
   - Embed safety guardrails and policy enforcement across agents, data flows and runtime surfaces
   - Maintain production-ready standards for every initiative, ensuring smooth transition from prototype to scale
+</details>
+
+<details>
+  <summary>Strategy Signals Monitor</summary>
+
+  - Regulatory radar covering EU AI Act, NIST AI RMF and sector-specific expectations
+  - Discovery intelligence program aligning research spikes with product portfolio gaps
+  - Structured post-launch reviews capturing telemetry, stakeholder sentiment and backlog deltas
+</details>
+
+## Program Navigator
+<details open>
+  <summary>Active Streams</summary>
+
+  | Stream | Objective | Status Gate |
+  | --- | --- | --- |
+  | Enterprise Retrieval Intelligence | Deliver cross-division knowledge discovery agents with auditable trails | Evaluation burn-down in progress |
+  | Observability Modernisation | Harmonise tracing, logging and synthetics for AI-heavy services | Platform go-live scheduled Q4 |
+  | Policy Automation Fabric | Scale policy-as-code to cover agent lifecycle and SBOM approvals | Pilot complete, scale-up underway |
+</details>
+
+<details>
+  <summary>Engagement Intake Checklist</summary>
+
+  1. Confirm scope, constraints and executive sponsors
+  2. Map data sources, access tiers and retention expectations
+  3. Define evaluation gates: offline benchmarks, canary thresholds, safety gates
+  4. Align budget pacing, OKRs and reporting cadence
 </details>
 
 ## Service Portfolio
@@ -95,23 +155,43 @@ Amir Tlinov builds and scales deep-profile AI platforms that combine rigorous go
 - Production-ready only: systems ship with observability, performance baselines, rollback strategies and on-call playbooks.
 - Quantitative rigour: dashboards and experimentation metrics define success and inform iteration.
 
-## Engagement Framework
+## Delivery Playbooks
 <details open>
   <summary>Standard Delivery Lifecycle</summary>
 
   1. Discovery and alignment workshops capturing objectives, data sources, regulatory constraints and success metrics.
   2. Blueprint phase producing architecture dossiers, evaluation plans and governance checkpoints.
   3. Implementation sprints combining platform automation, model integration and policy enforcement.
-  4. Operationalisation with telemetry onboarding, runbooks, and readiness reviews before scale deployment.
+  4. Operationalisation with telemetry onboarding, runbooks and readiness reviews before scale deployment.
 </details>
 
 <details>
-  <summary>Assurance Layers</summary>
+  <summary>Co-Delivery Extras</summary>
 
-  - Deterministic builds with Bazel or Nix Flakes, including artifact hashing for traceability
-  - Continuous SBOM generation via Syft and vulnerability analysis with Grype
-  - Diff-aware static analysis (Semgrep, CodeQL) and merge simulation prior to release
-  - Policy evaluation integrating security gating, impact thresholds and stakeholder approvals
+  - Executive steering cadence with quarterly business reviews and telemetry packs
+  - Embedded enablement pods for client engineering teams and operations leaders
+  - Outcome retrospectives feeding capability roadmaps and investment cases
+</details>
+
+## Assurance Stack
+<details open>
+  <summary>Controls and Instrumentation</summary>
+
+  | Layer | Capability | Automation |
+  | --- | --- | --- |
+  | Build | Deterministic builds with Bazel or Nix, signed artifacts | Reproducibility logs hashed per release |
+  | Supply Chain | Continuous SBOM via Syft, vulnerability analysis with Grype | Policy gates for critical findings |
+  | Code Health | Diff-aware static analysis (Semgrep, CodeQL), merge simulation | Combined SARIF reporting |
+  | Runtime | Guardrail enforcement, anomaly detection, drift alerts | GitHub Actions → Incident runbooks |
+</details>
+
+<details>
+  <summary>Policy Alignment Checklist</summary>
+
+  - Impact assessment documented before development kickoff
+  - Safety evaluations mapped to deployment triggers
+  - Incident response rehearsed with measurable recovery objectives
+  - Audit trail stored with tamper-evident hashing
 </details>
 
 ## Technology Stack
@@ -124,9 +204,9 @@ Amir Tlinov builds and scales deep-profile AI platforms that combine rigorous go
 - AI experimentation tracked with Weights & Biases, automated evaluation harnesses and benchmark-driven release cadences.
 - Secure software supply chain rooted in deterministic builds, SBOM visibility and dependency risk scoring.
 
-## Architecture Snapshot
+## Architecture Suite
 ```mermaid
-graph LR
+flowchart LR
   UserExperience[User Experience] --> API
   API --> Services
   Services --> DataPlane[Data Plane]
@@ -135,6 +215,57 @@ graph LR
   DataPlane --> Storage
   Observability --> Governance
 ```
+
+```mermaid
+timeline
+  title Delivery Timeline 2022-2025
+  2022 : Established AI architecture guild and discovery governance
+  2023 : Deployed cross-regional vector intelligence platform
+  2024 : Industrialised SBOM automation and policy evaluation pipelines
+  2025 : Scaling agent safety frameworks across regulated verticals
+```
+
+```mermaid
+mindmap
+  root((Strategy))
+    Governance
+      Policy-as-code
+      SBOM lifecycle
+    Platforms
+      Cloud-native pipelines
+      Observability fabric
+    Intelligence
+      Retrieval augmentation
+      Evaluation harnesses
+    Outcomes
+      Time-to-value
+      Safety assurance
+```
+
+## Case Files
+<details open>
+  <summary>Financial Services Intelligence Platform</summary>
+
+  - Delivered retrieval-augmented briefing agents with lineage tracking
+  - Reduced analyst prep time by 47% while meeting audit requirements
+  - Embedded safety guardrails for sensitive data segmentation
+</details>
+
+<details>
+  <summary>SaaS Observability Consolidation</summary>
+
+  - Unified telemetry stack across microservices handling AI workloads
+  - Automated incident response playbooks and drift detection monitors
+  - Improved mean time to detect anomalies by 38%
+</details>
+
+<details>
+  <summary>Healthcare AI Governance Uplift</summary>
+
+  - Introduced policy automation fabric aligning with HIPAA and EU AI Act expectations
+  - Implemented reproducible evaluation pipeline for diagnostic support agents
+  - Enabled quarterly readiness reviews with artifact-backed evidence
+</details>
 
 ## Thought Leadership
 - Author of deep-profile AI tooling and infrastructure articles on Dev.to and LinkedIn
@@ -149,4 +280,4 @@ graph LR
 
 ---
 
-<p align="center"><sub>Updated September&nbsp;16,&nbsp;2025 &middot; Built for clarity, governance and execution excellence.</sub></p>
+<p align="center"><sub>Updated September&nbsp;16,&nbsp;2025 · Built for clarity, governance and execution excellence.</sub></p>
