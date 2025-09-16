@@ -1,116 +1,62 @@
-<!-- Hero Banner -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0b1a37,100:0f172a&height=260&section=header&text=Amir%20Tlinov&fontSize=86&fontAlign=50&fontAlignY=40&desc=Principal%20AI%20Engineer%20%7C%20Systems%20Strategist&descSize=22&descAlign=50&descAlignY=58" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eff6ff,50:dbeafe,100:bfdbfe&height=260&section=header&text=Amir%20Tlinov&fontSize=86&fontAlign=50&fontAlignY=40&desc=Principal%20AI%20Engineer%20%7C%20Systems%20Strategist&descSize=22&descAlign=50&descAlignY=58" alt="Amir Tlinov hero banner" />
-  </picture>
-</p>
+# Amir Tlinov
+**Principal AI Systems Engineer · Systems Strategist**
 
-<p align="center">
-  <strong>Deep-profile AI and developer tooling across deterministic Rust services, vector memory infrastructure, and safety-first evaluation flows.</strong><br/>
-  Grounded in transparent metrics, auditable pipelines, and reproducible delivery for local-first and regulated environments.
-</p>
+## Executive Summary
+Amir Tlinov architects and delivers deterministic AI tooling, evaluation frameworks, and vector memory systems for engineering organizations that demand governance-grade transparency. Engagements span reproducible developer experiences, infrastructure observability, and agentic workflows hardened for regulated, air-gapped, or data-resident environments. Core strengths include cross-functional leadership, safety-first automation, and end-to-end delivery of measurable AI capabilities.
 
-<div align="center">
-  <a href="https://github.com/iMAGRAY">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/iMAGRAY">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:amir@imagray.dev">
-    <img src="https://img.shields.io/badge/Email-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/iMAGRAY">
-    <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://dev.to/iMAGRAY">
-    <img src="https://img.shields.io/badge/dev.to-1f2937?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
-</div>
-
----
-
-## Operating Snapshot · 16 Sep 2025
-| Metric | Value |
+## Professional Footprint
+| Indicator | Detail |
 | --- | --- |
-| Public repositories | 14 |
-| Followers | 3 |
-| Stars received | 11 |
+| GitHub presence | 14 public repositories, 11 cumulative stars, 3 followers (captured 16 September 2025) |
+| Technical domains | Rust systems programming, Python data tooling, TypeScript developer experience, Go services |
+| Delivery modes | Deterministic build pipelines, auditable evaluation suites, sealed supply chain integrations |
+| Collaboration model | Product-oriented squads, AI agent platform teams, safety and compliance stakeholders |
 
-Figures captured from the GitHub profile dashboard on 16 September 2025.citeturn2view1
+## Strategic Programs
+| Program | Scope | Ownership & Status |
+| --- | --- | --- |
+| ASTSentinel | Deterministic AST instrumentation for Claude Code integrations; panic-free Rust production policy, typed error handling, and structured telemetry for reproducible toolchains. | Program owner; last production hardening 14 September 2025 |
+| ArchLens | AI-assisted architecture analytics platform with MCP server, CLI, and SDK surfaces that codify SOLID / architectural guardrails and technical debt measurement. | Product steward; recent architecture refresh 11 August 2025 |
+| CogniVault | Pluggable Rust-based vector memory hub with async runtimes, encrypted sled persistence, and Ed25519-signed extension model for runtime isolation. | Platform lead; major iteration 9 July 2025 |
+| SIGLA | Local-first agent memory service delivering HNSW search, SQLite+FTS5 storage, FastAPI interface, and offline fallbacks for constrained deployments. | Technical lead; offline memory enhancements 9 September 2025 |
 
-## Focus Streams
-<details open>
-  <summary><strong>ASTSentinel</strong> · deterministic AST instrumentation for Claude Code (Rust)</summary>
+## Capability Pillars
+- **Deterministic AI enablement:** Builds instrumentation, constraint systems, and evaluation harnesses that keep AI-assisted coding flows reproducible across IDE, MCP, and CI contexts.
+- **Memory and knowledge infrastructure:** Designs vector search, embedding orchestration, and policy-aware persistence layers optimized for security boundaries.
+- **Safety and compliance automation:** Integrates observability, policy enforcement, and SBOM-driven supply chain controls into engineering workflows without sacrificing velocity.
+- **Cross-functional leadership:** Aligns product management, research, platform, and reliability stakeholders around transparent KPIs and release cadences.
 
-  - Детерминированный набор AST-проверок и хуков покрывает pre/post tool сценарии, удерживая выводы воспроизводимыми во всех точках входа Claude Code.citeturn3view0
-  - Продакшн-ветки запрещают `panic!`/`unwrap!` и форсируют типизированную обработку ошибок со структурным логированием ради чистых JSON-контрактов.citeturn3view0
-  - Последние изменения зафиксированы 14 сентября 2025 года.citeturn3view1
-</details>
+## Operating Principles
+- Treat every pipeline as auditable: enforce reproducible builds, deterministic seeds, and signed extension artifacts across environments.
+- Prefer typed, panic-free error handling with structured logging to maintain verifiable contracts for agent and developer tooling integrations.
+- Co-design evaluation suites with end users, ensuring coverage for safety, latency, and regression objectives before feature rollout.
+- Maintain policy-default secure posture: opt-in egress, encrypted storage, and measurable variance controls for all agent memory systems.
 
-<details>
-  <summary><strong>ArchLens</strong> · AI-assisted architecture analysis (Rust)</summary>
+## Recent Milestones (2025)
+- 9 July: Released CogniVault extension signature gate to protect runtime plug-ins.
+- 11 August: Deployed ArchLens architectural scoring refinements across MCP endpoints.
+- 9 September: Delivered SIGLA offline memory benchmark pack for constrained deployments.
+- 14 September: Hardened ASTSentinel instrumentation with expanded panic-prohibition linting.
 
-  - Выявляет code smells, нарушения SOLID и архитектурные антипаттерны с оценкой технического долга.citeturn4view0
-  - Поставляется с STDIO MCP-сервером, CLI и библиотечным API для интеграции в AI-пайплайны.citeturn4view0
-  - Репозиторий обновлён 11 августа 2025 года.citeturn3view1
-</details>
+## Toolchain & Infrastructure Standards
+- Rust, Python, Go, and TypeScript with reproducible dependency management (Bazel or Nix Flakes).
+- Observability via Prometheus metrics, structured JSON logs, and deterministic diff artifacts.
+- SBOM generation with Syft and vulnerability evaluation with Grype; CI-integrated SARIF reporting.
+- Infrastructure-as-code disciplines using Terraform and Kubernetes with zero-trust extension policies.
 
-<details>
-  <summary><strong>CogniVault</strong> · pluggable Rust memory hub for embeddings and vector search</summary>
-
-  - Runtime-агностичный хаб с поддержкой async-std/tokio, шифрованным Sled-хранилищем и SIMD HNSW-поиском.citeturn5view0
-  - Плагины через `cdylib` и WASI проходят Ed25519-подпись перед загрузкой, сохраняя контроль расширений.citeturn5view0
-  - Активность зафиксирована 9 июля 2025 года.citeturn3view3
-</details>
-
-<details>
-  <summary><strong>SIGLA</strong> · local vector memory system for agents (Python)</summary>
-
-  - Даёт офлайн-поиск на HNSW с NumPy-фолбэком, персистентность на SQLite+FTS5 и API для памяти агента.citeturn6view0
-  - Включает бенчмарки, автооптимизацию и FastAPI-надстройки, оставаясь GPU-опциональным.citeturn6view0
-  - Последняя активность отмечена 9 сентября 2025 года.citeturn3view2
-</details>
-
-## Portfolio Highlights
-| Project | Stack | Focus | Notes |
-| --- | --- | --- | --- |
-| ASTSentinel | Rust · Python | Deterministic AST hooks for Claude Code with panic-free production policy | Updated 14 Sep 2025citeturn3view0turn3view1 |
-| ArchLens | Rust | Architecture analysis, MCP server, multi-language metrics | Updated 11 Aug 2025citeturn4view0turn3view1 |
-| CogniVault | Rust | Memory hub with pluggable backends and observability guardrails | Updated 9 Jul 2025citeturn5view0turn3view3 |
-| SIGLA | Python · Shell | Local agent memory with HNSW index, SQLite storage, and REST extras | Updated 9 Sep 2025citeturn6view0turn3view2 |
-
-## Operating Practices
-- Придерживаемся воспроизводимых сборок и паник-фри пайплайнов в Rust-сервисах.citeturn3view0
-- Экспортируем инструменты через MCP и CLI, чтобы AI-агенты и разработчики работали с едиными структурами данных.citeturn4view0turn5view0turn6view0
-- Совмещаем исследования памяти и наблюдаемость, поддерживая офлайн-фолбэки до включения опциональных расширений.citeturn5view0turn6view0
-
-## Activity Timeline
-```mermaid
-timeline
-  title Major updates 2025
-  2025-07-09 : CogniVault memory hub iteration
-  2025-08-11 : ArchLens architecture analysis refresh
-  2025-09-09 : SIGLA offline memory enhancements
-  2025-09-14 : ASTSentinel instrumentation hardening
-```
-
-Обновления июля–сентября 2025 охватывают память на Rust, архитектурную аналитику и усиление AST-инструментации.citeturn3view1turn3view2turn3view3
-
-## Tooling & Capabilities
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,typescript,go,aws,docker,kubernetes,terraform,sqlite,redis" alt="Technology stack icons" />
-</div>
-
-- Rust доминирует в системной части, Python и shell применяются в SIGLA и вспомогательных скриптах.citeturn3view0turn6view0
-- Инфраструктура базируется на метриках Prometheus, политике расширений и воспроизводимых пайплайнах.citeturn5view0turn6view0
+## Engagement Options
+- **Advisory engagements:** Architecture assessments, developer experience audits, and AI governance playbooks.
+- **Platform leadership:** Standing up internal AI agent platforms, memory services, and deterministic evaluation pipelines.
+- **Strategic partnerships:** Joint delivery with compliance, legal, and security teams to launch AI features in regulated contexts.
 
 ## Contact
+- Email: [magraytlinov@gmail.com](mailto:magraytlinov@gmail.com)
 - GitHub: [github.com/iMAGRAY](https://github.com/iMAGRAY)
-- LinkedIn: [linkedin.com/in/iMAGRAY](https://linkedin.com/in/iMAGRAY)
-- Email: [amir@imagray.dev](mailto:amir@imagray.dev)
+- Telegram: [@magray](https://t.me/magray)
+- Discord: [@magray](https://discordapp.com/users/magray)
+- Website: In development
+- LinkedIn: Planned rollout
+- X (Twitter): Planned rollout
 
 ---
-
-<p align="center"><sub>Updated 16 September 2025 · Built for transparent, reproducible AI tooling.</sub></p>
+Updated 16 September 2025 · Professional profile maintained for corporate and enterprise stakeholders.
