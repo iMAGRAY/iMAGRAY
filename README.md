@@ -1,5 +1,5 @@
 <!-- Animated Wave Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Amir%20Tlinov&fontSize=90&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Software%20Architect%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Moscow&descSize=20&descAlign=50&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Amir%20Tlinov&fontSize=90&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Software%20Architect%20%E2%80%A2%20AI%20Developer&descSize=20&descAlign=50&descAlignY=55" />
 
 <!-- Interactive Social Links with Hover Effect -->
 <div align="center">
@@ -30,7 +30,6 @@
   <img src="https://komarev.com/ghpvc/?username=iMAGRAY&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/iMAGRAY?style=for-the-badge&color=8b5cf6&label=FOLLOWERS" alt="Followers" />
   <img src="https://img.shields.io/github/stars/iMAGRAY?style=for-the-badge&color=8b5cf6&label=TOTAL+STARS" alt="Stars" />
-  <img src="https://wakatime.com/badge/user/iMAGRAY.svg?style=for-the-badge" alt="WakaTime" />
 </div>
 
 <br/>
@@ -62,10 +61,6 @@
             <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="25" alt="Developer">
             Amir Tlinov <b>@iMAGRAY</b>
           </h3>
-          <p align="center">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="18" alt="Location">
-            <b>Moscow, Russia</b>
-          </p>
           <br/>
           
           <h4>🎯 Current Focus</h4>
@@ -110,28 +105,28 @@
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/Languages-8b5cf6?style=flat-square&labelColor=8b5cf6" alt="Languages" height="25">
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=rust,python,typescript,go" alt="Languages" /><br/>
-        <img src="https://progress-bar.dev/95/?title=Expert&width=200&color=8b5cf6" alt="95%">
+        <img src="https://skillicons.dev/icons?i=rust,python,typescript,go" alt="Languages" /><br/><br/>
+        <img src="https://img.shields.io/badge/Expert-95%25-8b5cf6?style=for-the-badge" alt="95%">
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/AI%20%26%20ML-ec4899?style=flat-square&labelColor=ec4899" alt="AI/ML" height="25">
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI/ML" /><br/>
-        <img src="https://progress-bar.dev/90/?title=Expert&width=200&color=ec4899" alt="90%">
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI/ML" /><br/><br/>
+        <img src="https://img.shields.io/badge/Expert-90%25-ec4899?style=for-the-badge" alt="90%">
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-3b82f6?style=flat-square&labelColor=3b82f6" alt="Cloud" height="25">
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" alt="Cloud" /><br/>
-        <img src="https://progress-bar.dev/88/?title=Advanced&width=200&color=3b82f6" alt="88%">
+        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" alt="Cloud" /><br/><br/>
+        <img src="https://img.shields.io/badge/Advanced-88%25-3b82f6?style=for-the-badge" alt="88%">
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/Databases-10b981?style=flat-square&labelColor=10b981" alt="Databases" height="25">
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,elasticsearch" alt="Databases" /><br/>
-        <img src="https://progress-bar.dev/92/?title=Expert&width=200&color=10b981" alt="92%">
+        <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,elasticsearch" alt="Databases" /><br/><br/>
+        <img src="https://img.shields.io/badge/Expert-92%25-10b981?style=for-the-badge" alt="92%">
       </td>
     </tr>
   </table>
@@ -588,14 +583,6 @@ graph TD
     </tr>
   </table>
 
-  <br/>
-  
-  <!-- WakaTime Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=iMAGRAY&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iMAGRAY&theme=default&hide_border=true" alt="WakaTime Stats" />
-  </picture>
-
 </div>
 
 <br/>
@@ -653,17 +640,6 @@ graph TD
   <a href="https://www.patreon.com/iMAGRAY">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
   </a>
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iMAGRAY/iMAGRAY/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iMAGRAY/iMAGRAY/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iMAGRAY/iMAGRAY/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <br/>
