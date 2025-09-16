@@ -21,26 +21,21 @@
 ---
 
 ### About
-
-**🇷🇺 Русский:** Разработчик программного обеспечения с фокусом на искусственном интеллекте и современных технологиях. Специализируюсь на создании масштабируемых решений с использованием Rust, Python и TypeScript.
-
-**🇺🇸 English:** Software engineer specializing in artificial intelligence and cutting-edge technologies. Focus on building scalable, production-ready solutions using Rust, Python, and TypeScript.
+Software engineer specializing in artificial intelligence and cutting-edge technologies. Focus on building scalable, production-ready solutions using Rust, Python, and TypeScript.
 
 ### Practical Expertise
-
 Specialize in creating AI frameworks and LLM integrations for production environments. Architect distributed systems, optimize development tooling, and build automation pipelines. Extensive experience with MCP protocol implementation and IDE development within the Vartium ecosystem. Focus on performance-critical applications using systems programming languages.
 
 ---
 
 ### GitHub Statistics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iMAGRAY&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMAGRAY&layout=compact&langs_count=8&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iMAGRAY&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMAGRAY&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iMAGRAY&theme=default" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=iMAGRAY&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -58,10 +53,7 @@ Specialize in creating AI frameworks and LLM integrations for production environ
 - Open source ML/AI libraries and frameworks
 
 ### Featured Repositories
-[![CogniVault](https://github-readme-stats.vercel.app/api/pin/?username=iMAGRAY&repo=CogniVault&theme=default)](https://github.com/iMAGRAY/CogniVault)
-[![ArchLens](https://github-readme-stats.vercel.app/api/pin/?username=iMAGRAY&repo=ArchLens&theme=default)](https://github.com/iMAGRAY/ArchLens)
-[![Rome-Protocol](https://github-readme-stats.vercel.app/api/pin/?username=iMAGRAY&repo=Rome-Protocol&theme=default)](https://github.com/iMAGRAY/Rome-Protocol)
-[![MAGRAY_Cli](https://github-readme-stats.vercel.app/api/pin/?username=iMAGRAY&repo=MAGRAY_Cli&theme=default)](https://github.com/iMAGRAY/MAGRAY_Cli)
+[![CogniVault](https://github-readme-stats.vercel.app/api/pin/?username=iMAGRAY&repo=CogniVault&theme=tokyonight)](https://github.com/iMAGRAY/CogniVault) [![ArchLens](https://github-readme-stats.vercel.app/api/pin/?username=iMAGRAY&repo=ArchLens&theme=tokyonight)](https://github.com/iMAGRAY/ArchLens) [![Rome-Protocol](https://github-readme-stats.vercel.app/api/pin/?username=iMAGRAY&repo=Rome-Protocol&theme=tokyonight)](https://github.com/iMAGRAY/Rome-Protocol) [![MAGRAY_Cli](https://github-readme-stats.vercel.app/api/pin/?username=iMAGRAY&repo=MAGRAY_Cli&theme=tokyonight)](https://github.com/iMAGRAY/MAGRAY_Cli)
 
 ---
 
