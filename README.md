@@ -1,53 +1,60 @@
-# Amir Tlinov
-**Principal AI Systems Engineer · Systems Strategist**
+<!-- Corporate Profile Header -->
+<p align="center">
+  <strong style="font-size:1.5rem;letter-spacing:0.08em;">AMIR TLINOV</strong><br/>
+  <span style="font-size:1.05rem;color:#4b5563;">Principal AI Systems Engineer · Systems Strategist</span>
+</p>
 
-## Executive Summary
-Amir Tlinov architects and delivers deterministic AI tooling, evaluation frameworks, and vector memory systems for engineering organizations that demand governance-grade transparency. Engagements span reproducible developer experiences, infrastructure observability, and agentic workflows hardened for regulated, air-gapped, or data-resident environments. Core strengths include cross-functional leadership, safety-first automation, and end-to-end delivery of measurable AI capabilities.
+---
 
-## Professional Footprint
+## Executive Overview
+I design, scale, and operationalize deterministic AI platforms that satisfy executive governance standards while accelerating engineering throughput. My work spans reproducible developer tooling, agentic workflow instrumentation, and secure vector memory infrastructure. I align cross-functional teams around measurable outcomes, translating compliance and safety expectations into maintainable code, policy, and automation.
+
+## Signal Snapshot · 16 September 2025
 | Indicator | Detail |
 | --- | --- |
-| GitHub presence | 14 public repositories, 11 cumulative stars, 3 followers (captured 16 September 2025) |
-| Technical domains | Rust systems programming, Python data tooling, TypeScript developer experience, Go services |
-| Delivery modes | Deterministic build pipelines, auditable evaluation suites, sealed supply chain integrations |
-| Collaboration model | Product-oriented squads, AI agent platform teams, safety and compliance stakeholders |
+| GitHub portfolio | 14 public repositories, 11 total stars, 3 followers |
+| Primary domains | Rust systems, Python data tooling, Go services, TypeScript DX |
+| Delivery modes | Deterministic build pipelines, auditable evaluation suites, sealed supply chain controls |
+| Collaboration model | Product squads, AI agent platforms, safety & compliance leads |
 
-## Strategic Programs
-| Program | Scope | Ownership & Status |
+## Program Portfolio
+| Program | Focus | Ownership & Momentum |
 | --- | --- | --- |
-| ASTSentinel | Deterministic AST instrumentation for Claude Code integrations; panic-free Rust production policy, typed error handling, and structured telemetry for reproducible toolchains. | Program owner; last production hardening 14 September 2025 |
-| ArchLens | AI-assisted architecture analytics platform with MCP server, CLI, and SDK surfaces that codify SOLID / architectural guardrails and technical debt measurement. | Product steward; recent architecture refresh 11 August 2025 |
-| CogniVault | Pluggable Rust-based vector memory hub with async runtimes, encrypted sled persistence, and Ed25519-signed extension model for runtime isolation. | Platform lead; major iteration 9 July 2025 |
-| SIGLA | Local-first agent memory service delivering HNSW search, SQLite+FTS5 storage, FastAPI interface, and offline fallbacks for constrained deployments. | Technical lead; offline memory enhancements 9 September 2025 |
+| **ASTSentinel** | Deterministic AST instrumentation for Claude Code integrations; panic-free Rust policy, typed error handling, structured telemetry. | I serve as program owner; most recent hardening delivered 14 Sep 2025. |
+| **ArchLens** | AI-assisted architecture analytics with MCP server, CLI, SDK surfaces enforcing SOLID guardrails and technical debt scoring. | I steward the product roadmap; architecture refresh landed 11 Aug 2025. |
+| **CogniVault** | Pluggable Rust vector memory hub with async runtimes, encrypted sled persistence, and Ed25519-signed extension lifecycle. | I lead the platform; major iteration shipped 9 Jul 2025. |
+| **SIGLA** | Local-first agent memory service featuring HNSW retrieval, SQLite+FTS5 storage, FastAPI interface, and offline fallbacks. | I direct technical delivery; offline benchmarks released 9 Sep 2025. |
 
-## Capability Pillars
-- **Deterministic AI enablement:** Builds instrumentation, constraint systems, and evaluation harnesses that keep AI-assisted coding flows reproducible across IDE, MCP, and CI contexts.
-- **Memory and knowledge infrastructure:** Designs vector search, embedding orchestration, and policy-aware persistence layers optimized for security boundaries.
-- **Safety and compliance automation:** Integrates observability, policy enforcement, and SBOM-driven supply chain controls into engineering workflows without sacrificing velocity.
-- **Cross-functional leadership:** Aligns product management, research, platform, and reliability stakeholders around transparent KPIs and release cadences.
+## Value Pillars
+- **Deterministic enablement:** I build instrumentation, constraint systems, and evaluation harnesses that retain reproducibility across IDE, MCP, and CI entry points.
+- **Memory & knowledge infrastructure:** I engineer vector search and policy-aware persistence layers that respect security boundaries and runtime determinism.
+- **Safety automation:** I integrate observability, policy enforcement, SBOM-driven risk controls, and zero-trust extension models into everyday workflows.
+- **Enterprise alignment:** I translate executive expectations into roadmaps, KPIs, and release cadences that keep product, research, and compliance partners synchronized.
 
 ## Operating Principles
-- Treat every pipeline as auditable: enforce reproducible builds, deterministic seeds, and signed extension artifacts across environments.
-- Prefer typed, panic-free error handling with structured logging to maintain verifiable contracts for agent and developer tooling integrations.
-- Co-design evaluation suites with end users, ensuring coverage for safety, latency, and regression objectives before feature rollout.
-- Maintain policy-default secure posture: opt-in egress, encrypted storage, and measurable variance controls for all agent memory systems.
+1. Every pipeline is auditable—reproducible builds, deterministic seeds, signed artifacts, and transparent metrics are non-negotiable.
+2. Typed, panic-free error handling with structured logging protects the service contracts that AI agents and developers rely on.
+3. Evaluation suites launch with the feature, not after it; I co-design coverage for safety, latency, and regression risks before release.
+4. Default-deny posture governs extensions, data egress, and storage; controls become opt-in and monitored.
 
-## Recent Milestones (2025)
-- 9 July: Released CogniVault extension signature gate to protect runtime plug-ins.
-- 11 August: Deployed ArchLens architectural scoring refinements across MCP endpoints.
-- 9 September: Delivered SIGLA offline memory benchmark pack for constrained deployments.
-- 14 September: Hardened ASTSentinel instrumentation with expanded panic-prohibition linting.
+## 2025 Milestones
+- **09 Jul:** Introduced CogniVault extension signature gate to secure runtime plug-ins.
+- **11 Aug:** Delivered ArchLens architectural scoring refinements across MCP endpoints.
+- **09 Sep:** Published SIGLA offline memory benchmark pack for constrained environments.
+- **14 Sep:** Hardened ASTSentinel instrumentation with expanded panic-prohibition linting and telemetry coverage.
 
-## Toolchain & Infrastructure Standards
-- Rust, Python, Go, and TypeScript with reproducible dependency management (Bazel or Nix Flakes).
-- Observability via Prometheus metrics, structured JSON logs, and deterministic diff artifacts.
-- SBOM generation with Syft and vulnerability evaluation with Grype; CI-integrated SARIF reporting.
-- Infrastructure-as-code disciplines using Terraform and Kubernetes with zero-trust extension policies.
+## Tooling & Infrastructure Standards
+- Rust, Python, Go, and TypeScript with Bazel or Nix Flakes to enshrine reproducible dependency graphs.
+- Observability through Prometheus metrics, structured JSON logging, deterministic diff artifacts, and automated regression gates.
+- SBOM generation via Syft and vulnerability intelligence with Grype, funneling into SARIF-enabled CI policy evaluation.
+- Infrastructure-as-code disciplines anchored in Terraform and Kubernetes, complemented by zero-trust extension policies and sealed supply chain practices.
 
-## Engagement Options
-- **Advisory engagements:** Architecture assessments, developer experience audits, and AI governance playbooks.
-- **Platform leadership:** Standing up internal AI agent platforms, memory services, and deterministic evaluation pipelines.
-- **Strategic partnerships:** Joint delivery with compliance, legal, and security teams to launch AI features in regulated contexts.
+## Engagement Tracks
+| Track | What I Deliver |
+| --- | --- |
+| Advisory | Architecture assessments, developer experience audits, AI governance playbooks ready for executive forums. |
+| Platform Leadership | Standing up internal AI agent platforms, memory services, deterministic evaluation pipelines, and observability frameworks. |
+| Strategic Partnership | Joint execution with security, legal, and compliance teams to launch AI capabilities within regulated or air-gapped environments. |
 
 ## Contact
 - Email: [magraytlinov@gmail.com](mailto:magraytlinov@gmail.com)
@@ -59,4 +66,4 @@ Amir Tlinov architects and delivers deterministic AI tooling, evaluation framewo
 - X (Twitter): Planned rollout
 
 ---
-Updated 16 September 2025 · Professional profile maintained for corporate and enterprise stakeholders.
+Updated 16 September 2025 · Corporate-ready profile for enterprise AI initiatives.
