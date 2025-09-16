@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1f2937,100:0f172a&height=260&section=header&text=Amir%20Tlinov&fontSize=86&fontAlign=50&fontAlignY=40&desc=Principal%20AI%20Architect%20%7C%20Systems%20Strategist&descSize=22&descAlign=50&descAlignY=58" alt="Amir Tlinov hero banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,65:0b1a37,100:0f172a&height=260&section=header&text=Amir%20Tlinov&fontSize=86&fontAlign=50&fontAlignY=40&desc=Principal%20AI%20Architect%20%7C%20Systems%20Strategist&descSize=22&descAlign=50&descAlignY=58" alt="Amir Tlinov hero banner" />
 </p>
 
 <p align="center">
@@ -41,6 +41,7 @@
 ## Table of Contents
 - [Executive Overview](#executive-overview)
 - [Executive Dashboard](#executive-dashboard)
+- [Insights Command Center](#insights-command-center)
 - [Strategic Focus](#strategic-focus)
 - [Program Navigator](#program-navigator)
 - [Service Portfolio](#service-portfolio)
@@ -48,8 +49,11 @@
 - [Operating Principles](#operating-principles)
 - [Delivery Playbooks](#delivery-playbooks)
 - [Assurance Stack](#assurance-stack)
+- [Compliance Scorecard](#compliance-scorecard)
 - [Technology Stack](#technology-stack)
 - [Architecture Suite](#architecture-suite)
+- [Innovation Radar](#innovation-radar)
+- [Global Delivery Footprint](#global-delivery-footprint)
 - [Case Files](#case-files)
 - [Thought Leadership](#thought-leadership)
 - [Contact](#contact)
@@ -85,6 +89,31 @@ Amir Tlinov builds and scales deep-profile AI platforms that combine rigorous go
   | Safety Integrity | Real-time guardrail coverage across inference surfaces | Open Policy Agent + custom safety runners |
   | Operational Efficiency | Deployment lead time and rollback rehearsal cadence | Argo Workflows + Service Catalog |
   | Knowledge Uplift | Feedback loops from discovery to backlog refinement | Notion → Linear bi-directional sync |
+</details>
+
+## Insights Command Center
+<details open>
+  <summary>Control Tower Indices</summary>
+
+  | Index | FY25 Trajectory | Instrumentation |
+  | --- | --- | --- |
+  | Launch Confidence | ![95%](https://progress-bar.dev/95/?width=180&color=1e40af&suffix=%25) | Release readiness scoring + automated checklists |
+  | Guardrail Coverage | ![93%](https://progress-bar.dev/93/?width=180&color=1d4ed8&suffix=%25) | Safety runners, synthetic probes |
+  | Experiment Velocity | ![88%](https://progress-bar.dev/88/?width=180&color=2563eb&suffix=%25) | Evaluation harness orchestration |
+  | Policy Automation | ![90%](https://progress-bar.dev/90/?width=180&color=312e81&suffix=%25) | Policy-as-code pipelines |
+
+  <p align="left"><sub>Progress indicators follow GitHub-compatible Markdown visual conventions to remain accessible in README contexts.</sub></p>
+</details>
+
+<details>
+  <summary>Risk Posture Watchlist</summary>
+
+  | Risk Vector | Current Signal | Mitigation Runbook |
+  | --- | --- | --- |
+  | Model drift alerts | Moderate | Drift dashboards, adaptive retraining cadence |
+  | Access governance | Low | Fine-grained IAM, just-in-time elevation |
+  | Regulatory updates | Elevated | Continuous compliance radar, legal alignment cell |
+  | Supply chain dependencies | Low | SBOM surveillance, vendor attestation rotation |
 </details>
 
 ## Strategic Focus
@@ -194,6 +223,29 @@ Amir Tlinov builds and scales deep-profile AI platforms that combine rigorous go
   - Audit trail stored with tamper-evident hashing
 </details>
 
+## Compliance Scorecard
+<details open>
+  <summary>Regulatory Alignment Heatmap</summary>
+
+  | Framework | Readiness | Evidence Source |
+  | --- | --- | --- |
+  | SOC 2 Type II | ![98%](https://progress-bar.dev/98/?width=180&color=134e4a&suffix=%25) | Control mapping dashboards, auditor artefacts |
+  | ISO 27001 | ![96%](https://progress-bar.dev/96/?width=180&color=166534&suffix=%25) | Statement of applicability, risk registers |
+  | EU AI Act (draft alignment) | ![82%](https://progress-bar.dev/82/?width=180&color=ca8a04&suffix=%25) | Impact assessments, transparency catalogues |
+  | HIPAA | ![88%](https://progress-bar.dev/88/?width=180&color=b45309&suffix=%25) | Data handling policies, continuous monitoring logs |
+</details>
+
+<details>
+  <summary>Control Owner Matrix</summary>
+
+  | Domain | Lead Function | Cadence |
+  | --- | --- | --- |
+  | Security Engineering | Zero trust champions | Monthly runbooks |
+  | Data Governance | Stewardship council | Quarterly audits |
+  | Legal and Compliance | Regulatory desk | Bi-weekly updates |
+  | Platform Operations | SRE leadership | Weekly readiness forums |
+</details>
+
 ## Technology Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust,python,typescript,go,aws,gcp,docker,kubernetes,terraform,pytorch,tensorflow,postgres,redis" alt="Technology stack icons" />
@@ -240,6 +292,73 @@ mindmap
     Outcomes
       Time-to-value
       Safety assurance
+```
+
+```mermaid
+gantt
+  title Operating Rhythm 2025
+  dateFormat  YYYY-MM
+  section Discovery
+  Executive alignment            :done,    des1, 2025-01, 2025-02
+  Design dossiers                :active,  des2, 2025-02, 2025-03
+  section Delivery
+  Platform automation            :crit,    del1, 2025-03, 2025-06
+  Safety harness rollout         :active,  del2, 2025-04, 2025-07
+  section Scale
+  Runbook certification          :        scl1, 2025-07, 2025-08
+  Continuous evaluation uplift   :        scl2, 2025-08, 2025-09
+```
+
+## Innovation Radar
+```mermaid
+pie showData
+  title Portfolio Emphasis FY25
+  "Production AI Platforms" : 38
+  "Observability Modernisation" : 22
+  "Safety and Compliance Engineering" : 24
+  "Applied Research Sprints" : 16
+```
+
+## Global Delivery Footprint
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "North America",
+        "focus": "Financial services AI controls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060, 40.7128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Europe",
+        "focus": "Regulated healthcare discovery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.4050, 52.5200]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Asia-Pacific",
+        "focus": "SaaS observability modernisation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8198, 1.3521]
+      }
+    }
+  ]
+}
 ```
 
 ## Case Files
