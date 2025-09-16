@@ -1,137 +1,82 @@
-<!-- Profile README for @iMAGRAY (Amir Tlinov) Style: businesslike; no emoji; SVG icons only (Tabler for sections, Simple Icons for tech); consistent 20px. For maximum reliability, vendor icons into assets/icons/ and use relative paths. --> <div align="center"> <h1>Amir Tlinov — iMAGRAY</h1>
+<!--
+  Все SVG-иконки лучше скачать в assets/icons и подключать относительными путями!
+-->
 
-<strong>AI Developer & Software Engineer</strong>
+<h1 align="center">
+  <img src="./assets/icons/icon-terminal.svg" width="42" alt="Terminal icon" />
+  Амир Тлинов — iMAGRAY
+</h1>
 
-<p><em>Designing deterministic AI tooling, Rust/Python systems, and MCP-compatible servers. Production first.</em></p> <p> <a href="https://imagray.dev" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/icon-link.svg" alt="Website" width="20" height="20"> imagray.dev </a> </p> </div> <hr/> <h2> <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/icon-target.svg" alt="Focus" width="20" height="20"> Focus </h2>
+<p align="center">
+  <a href="https://imagray.dev" target="_blank" rel="noopener">
+    <img src="./assets/icons/icon-globe.svg" width="20" alt="Website" /> imagray.dev
+  </a>
+  &nbsp; • &nbsp;
+  <img src="./assets/icons/icon-map-pin.svg" width="20" alt="Location" /> Россия, Москва
+  &nbsp; • &nbsp;
+  <img src="./assets/icons/icon-at.svg" width="20" alt="Contact" /> <strong>software architect & AI developer</strong>
+</p>
 
-AI agents & developer tooling (Claude / GPT / Gemini). Offline-friendly workflows when possible.
+---
 
-Systems programming in Rust and Python. Predictable performance and safety by default.
+## <img src="./assets/icons/icon-activity.svg" width="20" alt="Skills" /> Core Stack и Инструменты
 
-Model Context Protocol (MCP): practical tool servers and strict interface contracts.
+<p>
+  <img src="./assets/icons/rust.svg" width="20" alt="Rust" />
+  <img src="./assets/icons/python.svg" width="20" alt="Python" />
+  <img src="./assets/icons/typescript.svg" width="20" alt="TypeScript" />
+  <img src="./assets/icons/nodejs.svg" width="20" alt="Node.js" />
+  <img src="./assets/icons/react.svg" width="20" alt="React" />
+  <img src="./assets/icons/docker.svg" width="20" alt="Docker" />
+  <img src="./assets/icons/githubactions.svg" width="20" alt="GitHub Actions" />
+  <img src="./assets/icons/redis.svg" width="20" alt="Redis" />
+  <img src="./assets/icons/postgresql.svg" width="20" alt="PostgreSQL" />
+  <img src="./assets/icons/webassembly.svg" width="20" alt="WebAssembly" />
+  <img src="./assets/icons/terraform.svg" width="20" alt="Terraform" />
+</p>
+<sub>+ Prometheus, Grafana, Sentry, OpenTelemetry, Playwright, MCP-протокол.</sub>
 
-Distributed architecture & observability: metrics, logs, traces; p95/p99 and cost gates in CI.
+---
 
-<hr/> <h2> <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/icon-briefcase.svg" alt="Projects" width="20" height="20"> Selected Projects </h2> <table> <thead> <tr> <th align="left">Project</th> <th align="left">What it is</th> <th align="left">Highlights</th> <th align="left">Tech</th> </tr> </thead> <tbody>
-<tr>
-  <td><a href="https://github.com/iMAGRAY/ASTSentinel">ASTSentinel</a></td>
-  <td>Deterministic AST hooks & checks for AI coding agents.</td>
-  <td>Contract checks, perf budgets (p50/p95/p99), structured logs, “no panic in prod”.</td>
-  <td>
-    <img src="https://cdn.simpleicons.org/rust" alt="Rust" width="20" height="20"/>
-  </td>
-</tr>
+## <img src="./assets/icons/icon-cpu.svg" width="20" alt="Principles" /> Принципы и архитектура
 
-<tr>
-  <td><a href="https://github.com/iMAGRAY/ArchLens">ArchLens</a></td>
-  <td>AI-assisted architecture analysis with an MCP STDIO server.</td>
-  <td>Smell/antipattern detection, JSON/Markdown exports, Mermaid diagrams.</td>
-  <td>
-    <img src="https://cdn.simpleicons.org/rust" alt="Rust" width="20" height="20"/>
-    <img src="https://cdn.simpleicons.org/mermaid" alt="Mermaid" width="20" height="20"/>
-  </td>
-</tr>
+- Ориентация на архитектуру и документацию (design docs first, API-first).
+- Сквозная автоматизация: CI/CD, динамический контроль качества (feature flags, zero-downtime deploy).
+- Прозрачность: метрики, трейсинг, p95/p99, performance gates — всегда в CI.
+- Безопасность: минимизация прав, контроль секретов, идемпотентные операции.
+- Регулярное погашение технического долга, упрощение кода.
+- Демо — только production-ready.
 
-<tr>
-  <td><a href="https://github.com/iMAGRAY/MAGRAY_Cli">MAGRAY_Cli</a></td>
-  <td>Developer automation CLI with agent tooling.</td>
-  <td>Task matrix, performance gates, local/offline model support.</td>
-  <td>
-    <img src="https://cdn.simpleicons.org/rust" alt="Rust" width="20" height="20"/>
-  </td>
-</tr>
+---
 
-<tr>
-  <td><a href="https://github.com/iMAGRAY/PSQL_SSH_API_MCP">PSQL_SSH_API_MCP</a></td>
-  <td>Compact MCP server for PostgreSQL, SSH and HTTP APIs.</td>
-  <td>Service-layer DI, shorter tool names, hardening (SQL/command/SSRF protection).</td>
-  <td>
-    <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="20" height="20"/>
-    <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="20" height="20"/>
-    <img src="https://cdn.simpleicons.org/gnubash" alt="SSH" width="20" height="20"/>
-  </td>
-</tr>
+## <img src="./assets/icons/icon-folder.svg" width="20" alt="Repos" /> Главные проекты
 
-<tr>
-  <td><a href="https://github.com/iMAGRAY/CogniVault">CogniVault</a></td>
-  <td>High-performance, pluggable memory hub for embeddings/blobs/vector search.</td>
-  <td>Runtime-agnostic core, signed plugin system (cdylib/WASI), Prometheus metrics.</td>
-  <td>
-    <img src="https://cdn.simpleicons.org/rust" alt="Rust" width="20" height="20"/>
-  </td>
-</tr>
+| Название                  | Описание                                      | Технологии        |
+|---------------------------|-----------------------------------------------|-------------------|
+| [ASTSentinel](https://github.com/iMAGRAY/ASTSentinel)        | Автоматизированный аудит AST для AI-анализа кода | Rust, Python      |
+| [ArchLens](https://github.com/iMAGRAY/ArchLens)               | Системы анализа архитектуры, мета-инструмент      | TypeScript, Python|
+| [PSQL_SSH_API_MCP](https://github.com/iMAGRAY/PSQL_SSH_API_MCP)   | MCP-сервер для удалённого управления и автоматизации | Python, Bash      |
+| [CogniVault](https://github.com/iMAGRAY/CogniVault)           | Инфраструктура AI-памяти для semantic search       | Rust              |
+| [SIGLA](https://github.com/iMAGRAY/SIGLA)                     | Массивные embedding AI-решения                    | Python            |
+| [TelegramVoice](https://github.com/iMAGRAY/TelegramVoice)      | Multi-party Voice Rooms via Telegram MiniApp       | WebRTC, TypeScript|
 
-<tr>
-  <td><a href="https://github.com/iMAGRAY/70B-1q-to-70B-lang">SIGLA</a></td>
-  <td>Local vector memory & retrieval for agents.</td>
-  <td>HNSW with NumPy fallback, SQLite+FTS5, clean Python API.</td>
-  <td>
-    <img src="https://cdn.simpleicons.org/python" alt="Python" width="20" height="20"/>
-    <img src="https://cdn.simpleicons.org/sqlite" alt="SQLite" width="20" height="20"/>
-  </td>
-</tr>
+---
 
-<tr>
-  <td><a href="https://github.com/iMAGRAY/TelegramVoice">TelegramVoice</a></td>
-  <td>Telegram Mini App for multi-party voice rooms.</td>
-  <td>WebRTC audio, WebSocket signaling, CI/CD deploy scripts.</td>
-  <td>
-    <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" width="20" height="20"/>
-    <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="20" height="20"/>
-    <img src="https://cdn.simpleicons.org/webrtc" alt="WebRTC" width="20" height="20"/>
-  </td>
-</tr>
+## <img src="./assets/icons/icon-briefcase.svg" width="20" alt="Portfolio" /> Опыт
 
-<tr>
-  <td><a href="https://github.com/iMAGRAY/-24-">-24-</a></td>
-  <td>MCP remote-control server for secure operations via AI interfaces.</td>
-  <td>SSH/WebSocket tunneling, filesystem/exec/system tools, sandboxing and audit logging.</td>
-  <td>
-    <img src="https://cdn.simpleicons.org/python" alt="Python" width="20" height="20"/>
-    <img src="https://cdn.simpleicons.org/gnubash" alt="Shell" width="20" height="20"/>
-  </td>
-</tr>
+- **AI-инструменты глубокого профиля.**
+- Коммерциализация open-source, лицензирование (MIT, GPL, Apache).
+- Кроссплатформенная разработка: от Rust CLI до облачных AI-платформ.
+- Внедрение современных практик observability и security by default.
+- Совместная разработка в распределённых командах.
 
-<tr>
-  <td><a href="https://github.com/iMAGRAY/Axiom">Axiom</a></td>
-  <td>LLM-First Language (docs-only mode).</td>
-  <td>Release workflows, PDF/MD bundling, doc tests and link checks; wiki/pages sync.</td>
-  <td>
-    <img src="https://cdn.simpleicons.org/python" alt="Python" width="20" height="20"/>
-    <img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" width="20" height="20"/>
-  </td>
-</tr>
+---
 
-</tbody> </table> <hr/> <h2> <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/icon-stack-2.svg" alt="Stack" width="20" height="20"> Core Stack </h2> <p> <img src="https://cdn.simpleicons.org/rust" alt="Rust" width="20" height="20"/> <img src="https://cdn.simpleicons.org/python" alt="Python" width="20" height="20"/> <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="20" height="20"/> <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="20" height="20"/> <img src="https://cdn.simpleicons.org/react" alt="React" width="20" height="20"/> <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="20" height="20"/> <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="20" height="20"/> <img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" width="20" height="20"/> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="20" height="20"/> <img src="https://cdn.simpleicons.org/redis" alt="Redis" width="20" height="20"/> <img src="https://cdn.simpleicons.org/webassembly" alt="WebAssembly" width="20" height="20"/> </p>
+## <img src="./assets/icons/icon-link.svg" width="20" alt="Contacts" /> Контакты
 
-<sub>Also used as required: Prometheus/Grafana, Sentry, OpenTelemetry, Playwright, Terraform.</sub>
+- Личный сайт: [imagray.dev](https://imagray.dev)
+- Связь: через Issues или discussions в репозиториях
 
-<hr/> <h2> <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/icon-compass.svg" alt="Principles" width="20" height="20"> Operating Principles </h2>
+---
 
-Design docs first; clear API contracts; docs co-located with code.
-
-Small PRs; trunk-based delivery; feature flags; zero-downtime migrations.
-
-Observability by design: metrics/logs/traces with p95/p99 tracking; performance gates in CI.
-
-Security first: least privilege, secrets management, input validation, idempotent operations.
-
-Reduce accidental complexity; pay down technical debt regularly.
-
-<hr/> <h2> <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/icon-folder.svg" alt="Repos" width="20" height="20"> Where to look </h2>
-
-<strong>Pinned</strong>: ASTSentinel • ArchLens • MAGRAY_Cli • PSQL_SSH_API_MCP • CogniVault • SIGLA (70B-1q-to-70B-lang)
-
-For MCP work: PSQL_SSH_API_MCP, -24-, ArchLens.
-
-For AI tooling & memory: CogniVault, SIGLA.
-
-For real-time app work: TelegramVoice.
-
-<hr/> <h2> <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/icon-mail.svg" alt="Contact" width="20" height="20"> Contact </h2>
-
-Website: <a href="https://imagray.dev" target="_blank" rel="noopener">imagray.dev</a>
-
-For collaboration or questions: open an Issue in the relevant repository.
-
-<hr/> <sub> Colophon — SVG icons only (Tabler + Simple Icons), single size 20px. To avoid CDN dependency, vendor icons into <code>assets/icons/</code> and switch links to relative paths. </sub>
+<sub>Colophon: Все SVG лежат локально в <code>assets/icons/</code> для недепендентности от CDN. Для корпоративных клиентов — отдельный full-stack аудиt/AI consulting по запросу.</sub>
