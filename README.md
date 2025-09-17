@@ -90,6 +90,7 @@ I partner with enterprise technology, product, and risk leaders to deliver deter
 - Website: In development
 - LinkedIn: Planned rollout
 - X (Twitter): Planned rollout
-
+![](https://komarev.com/ghpvc/?username=iMAGRAY)
 ---
 Updated 16 September 2025 · Architecting deterministic AI systems worthy of enterprise trust.
+
